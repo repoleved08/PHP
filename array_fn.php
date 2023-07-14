@@ -20,4 +20,7 @@ print_r($arrMerger);
 $arr4 = [...$firstNum];
 print_r($arr4);
 
+$numbers = range(1, 20);
+
+print_r($numbers);
 ?>
